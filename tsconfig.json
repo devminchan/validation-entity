@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES3",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
+    "outDir": "./dist",
+    "lib": ["ES2015"]
+  },
+  "exclude": ["node_modules"]
+}
