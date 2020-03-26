@@ -4,6 +4,7 @@
   "description": "An simple validatable entity for TypeORM",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/devminchan/validation-entity#readme",
   "devDependencies": {
+    "@types/node": "^12.12.31",
     "@typescript-eslint/eslint-plugin": "^2.25.0",
     "@typescript-eslint/parser": "^2.25.0",
     "eslint": "^6.8.0",
