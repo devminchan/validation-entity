@@ -9,12 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devminchan/validation-entity.git"
+    "url": "git+https://github.com/devminchan/validation-entity.git"
   },
   "keywords": [
     "typescript"
   ],
-  "author": "devminchan",
+  "author": {
+    "name": "Minchan Kim",
+    "email": "minchan.dev@gmail.com",
+    "url": "https://velog.io/@devminchan"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/devminchan/validation-entity/issues"
