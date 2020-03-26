@@ -1,0 +1,22 @@
+{
+  "name": "validation-entity",
+  "version": "0.0.1",
+  "description": "An simple validatable entity for TypeORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devminchan/validation-entity.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "devminchan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devminchan/validation-entity/issues"
+  },
+  "homepage": "https://github.com/devminchan/validation-entity#readme"
+}
